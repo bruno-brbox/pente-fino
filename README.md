@@ -103,6 +103,12 @@ Depois de instalada, basta pedir ao Claude em linguagem natural:
 "Passa um pente-fino nessa skill: https://github.com/algum-autor/alguma-skill"
 ```
 
+ou executando o comando abaixo no claude code
+
+```
+/pente/fino https://github.com/algum-autor/alguma-skill
+```
+
 Outras frases que disparam a auditoria:
 - "Audita esse SKILL.md"
 - "Posso instalar essa skill?"
