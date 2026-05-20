@@ -75,7 +75,7 @@ Quando você instala uma skill maliciosa, ela roda com **as suas permissões**: 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/pente-fino.git
+git clone https://github.com/bruno-brbox/pente-fino.git
 
 # Copia para o diretório global de skills
 cp -r pente-fino ~/.claude/skills/
