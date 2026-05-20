@@ -106,7 +106,7 @@ Depois de instalada, basta pedir ao Claude em linguagem natural:
 ou executando o comando abaixo no claude code
 
 ```
-/pente/fino https://github.com/algum-autor/alguma-skill
+/pente-fino https://github.com/algum-autor/alguma-skill
 ```
 
 Outras frases que disparam a auditoria:
